@@ -1,1 +1,0 @@
-/home/dejunkong/.vimrc
